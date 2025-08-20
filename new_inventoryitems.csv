@@ -1,6 +1,0 @@
-﻿"new_category","importsequencenumber","new_inventoryid","new_inventoryitemid","new_status","new_itemname","new_purchasedate","new_serialnumber","statuscode","statecode","timezoneruleversionnumber","utcconversiontimezonecode","versionnumber","owningbusinessunit"
-"0","","INV-001","483cc51e-605d-f011-bec1-00224857ba01","1","HP LaserJet Pro","2025-07-09 16:00:00.0000000","HPLJP-32","1","0","0","","3828284","f80a27f1-773e-f011-877a-000d3aa02012"
-"1","","I-002","af0cf13c-5eb4-4b70-9aa2-2766e91a252f","0","Epson Projector Z500","2022-09-11 16:00:00.0000000","EPSNZ500-013","1","0","0","","3529925","f80a27f1-773e-f011-877a-000d3aa02012"
-"3","","I-004","3eacc35f-b449-4f48-a55a-7a7f3746eff8","0","HP LaserJet Pro","2021-11-02 16:00:00.0000000","HPLJP-321","1","0","0","","3516887","f80a27f1-773e-f011-877a-000d3aa02012"
-"2","","I-003","0886d9ed-1d18-424f-b3df-217902f6680e","2","Logitech Webcam C920","2024-01-09 16:00:00.0000000","LWC920-888","1","0","0","","3516884","f80a27f1-773e-f011-877a-000d3aa02012"
-"0","","I-001","a47fc004-5427-4195-aff7-cff537fcbce1","0","Dell Laptop XPS 13","2023-06-14 16:00:00.0000000","DELLXPS13-001","1","0","0","","3516880","f80a27f1-773e-f011-877a-000d3aa02012"
